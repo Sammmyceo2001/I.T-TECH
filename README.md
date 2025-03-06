@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sammmyceo2001/azure-network-protocols)
   - [Vpn Setup and usage](https://github.com/Sammmyceo2001/Vpn-usage)
   - [DNS Practice and Management](https://github.com/Sammmyceo2001/DNS-Lab)
-  - [Network Shares and File Permissions](https://github.com/Sammmyceo2001/Network-Shared-Files)
+  - [Network Shares and File Permissions](https://github.com/Sammmyceo2001/Network-Share-Files)
 <h2>🤳Connect with me:</h2>
 
 
