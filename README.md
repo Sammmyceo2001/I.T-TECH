@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Sammmyceo2001/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sammmyceo2001/azure-network-protocols)
-
+  - [Vpn-usage](https://github.com/Sammmyceo2001/Vpn-usage)
 <h2>🤳Connect with me:</h2>
 
 
